@@ -1,3 +1,2 @@
-# Cool-Scripts
-# Cool-Scripts
-# Cool-Scripts
+# Here are stored my bash scripts.
+# Use at your own risk.
